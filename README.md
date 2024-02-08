@@ -1,2 +1,8 @@
 # evento-nlw-experts
-Meu projeto do evento NLW Expert, usando HTML, CSS, JavaScript.
+
+## Tecnologias Utilizadas
+
+-HTML
+-CSS
+-JavaScript
+-Github

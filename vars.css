@@ -1,0 +1,11 @@
+*, :root {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;/*aplicara apenas para os navegadores que usam webkit safari, edge, chrome */
+    -moz-osx-font-smoothing: grayscale;/* seria a sensibildade da fonte */
+    -webkit-text-size-adjust: 100%; /* seria a = */
+}
